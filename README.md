@@ -2,6 +2,11 @@
 The Theories of Functions
 
 * Parametrical
+* Cicles
+* Angles
+* Trignometries
+* Hyperbolicals
+* Complex Numbers
 * Polar
 * Quadraticals
 * Parabolic
