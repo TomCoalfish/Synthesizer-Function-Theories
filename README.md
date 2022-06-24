@@ -1,6 +1,7 @@
 # Synthesizer-Function-Theories
 The Theories of Functions
 
+* Line y = mx + b
 * Parametrical
 * Circles
 * Angles
