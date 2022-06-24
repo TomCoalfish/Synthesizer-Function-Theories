@@ -2,7 +2,7 @@
 The Theories of Functions
 
 * Parametrical
-* Cicles
+* Circles
 * Angles
 * Trignometries
 * Hyperbolicals
