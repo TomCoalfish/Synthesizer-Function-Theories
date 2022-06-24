@@ -12,10 +12,10 @@ The Theories of Functions
 * Complex Numericals
 * Chebyshevicals
 * Polynomials
-* Polar
+* Polars
 * Quadraticals
-* Parabolic
-* Spherical
+* Parabolicals
+* Sphericals
 * Vector Parameters
 * Functional Parameters
 * Object-Oriented Parameters
