@@ -9,7 +9,7 @@ The Theories of Functions
 * Hyperbolicals
 * Logarithmicals
 * Exponentials
-* Complex Numbers
+* Complex Numericals
 * Chebyshevicals
 * Polynomials
 * Polar
