@@ -2,6 +2,8 @@
 The Theories of Functions
 
 * Line y = mx + b
+* Polarities
+* Quadranticals
 * Parametrical
 * Circles
 * Angles
