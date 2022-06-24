@@ -7,6 +7,8 @@ The Theories of Functions
 * Angles
 * Trignometries
 * Hyperbolicals
+* Logarithmicals
+* Exponentials
 * Complex Numbers
 * Chebyshevicals
 * Polynomials
