@@ -7,6 +7,8 @@ The Theories of Functions
 * Trignometries
 * Hyperbolicals
 * Complex Numbers
+* Chebyshevicals
+* Polynomials
 * Polar
 * Quadraticals
 * Parabolic
